@@ -1,0 +1,19 @@
+{
+  "name": "learnnode.js",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "this is my first node project",
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "license": "ISC",
+  "author": "zoheb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
